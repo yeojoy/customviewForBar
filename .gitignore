@@ -4,4 +4,6 @@ gen
 
 .classpath
 libs/android-support-v4.jar
+project.properties
+
 
